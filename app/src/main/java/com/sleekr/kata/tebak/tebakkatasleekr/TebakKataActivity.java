@@ -32,6 +32,7 @@ public class TebakKataActivity extends AppCompatActivity {
         score = 1;
         //Test branch2
         //oke
+        //tess2
         question.setText(questions[number]);
         submit.setOnClickListener(new View.OnClickListener() {
             @Override
