@@ -12,13 +12,14 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        String tes2 = "";
+        //oke coy
     }
+//tes
+
 
     private void cek(){
         //test1 branch
         //ini
     }
-//tes
 
 }
