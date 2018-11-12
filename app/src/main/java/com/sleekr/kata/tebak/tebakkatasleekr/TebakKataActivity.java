@@ -44,6 +44,7 @@ public class TebakKataActivity extends AppCompatActivity {
 
             }
         });
+        //ok
     }
 
     private void cekTebakKata(String answer, int cekAnswer){
